@@ -67,7 +67,6 @@ h4 {
     overflow: auto;
 }
 
-/* Media Queries */ 
 @media (max-width:768px) {
     #previousSearch {
         max-height: 152px;
