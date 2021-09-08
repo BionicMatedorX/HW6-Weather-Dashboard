@@ -10,6 +10,8 @@ https://bionicmatedorx.github.io/HW6-Weather-Dashboard/
 
 # Webpage Project Image:
 
+<img src="./assets/screenshot image/WeatherDash.png" alt="Final product" width="600"/>
+
 # About
 
     This project was done to give a user a way to search the current weather and also present them with a five day forecast for the city that they lookup.
